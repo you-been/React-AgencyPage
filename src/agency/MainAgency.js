@@ -10,7 +10,9 @@ const MainAgency = () => {
       <Header agencyStyle={agencyStyle} />
       <div className={agencyStyle.txtWrapper}>
         <h2>
-          <span>W</span>e are <span>C</span>reative <span>A</span>gency
+          <span>W</span>e are <br />
+          <span>C</span>reative <br />
+          <span>A</span>gency
         </h2>
         <p>Working with brands all over the world</p>
       </div>
