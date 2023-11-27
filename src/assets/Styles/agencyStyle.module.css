@@ -118,7 +118,7 @@ header h1 {
 .txtWrapper h2 span {
   color: rgb(13, 54, 9);
 }
-.txtWrapper h2 span:nth-child(2) {
+.txtWrapper h2 span:nth-child(3) {
   color: rgb(126, 13, 13);
 }
 .txtWrapper p {
